@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: Verdana;
+  }
+
+  label {
+    color: #6f6e77;
+  }
+
+  input {
+    padding: 12px 16px;
+    background: #ffffff;
+    border: 2px solid #dcdbdd;
+    border-radius: 4px;
+  }
+
+  button {
+    padding: 12px 16px;
+    margin: 5px 0px 0px 0px;
+    background: #8cd812;
+    border-radius: 12px;
+  }
+
+  .image {
+    height: 200px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 2rem;
+  }
+
+
+  .images-container {
+    gap: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #bid {
+    margin-bottom: 1rem;
+  }
